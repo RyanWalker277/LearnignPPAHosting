@@ -1,0 +1,16 @@
+Package: hello
+Version: 0.1-1
+Architecture: all
+Maintainer: ryanwalker277 <ryanwalker277@unknown>
+Installed-Size: 12
+Filename: ./hello_0.1-1_all.deb
+Size: 2428
+MD5sum: e4a3381a13571746ae65f4e817b65d44
+SHA1: 7ca3ec56805caa85cb3747f190c7a47aa869cd5b
+SHA256: e7d2133f56dfde8c207e25af5ebe81e001159b0b75747e05d8033c5508b7e976
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+

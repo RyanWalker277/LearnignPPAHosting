@@ -1,0 +1,20 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Thu, 16 Feb 2023 19:43:32 +0000
+MD5Sum:
+ 278771d52a2b7e85af0bfa46214c58db              505 Packages
+ bf069c6412b639b7fae150442f352b98              377 Packages.gz
+ b67870e3dd144b77e9b5822ff94c1bc4               38 Release
+SHA1:
+ 9b879e4b764ebd4c1469dfc17c85cf5c3f0b127c              505 Packages
+ b8b243cd063c8493768e760577a4c6f916ec0d53              377 Packages.gz
+ 0b9b8a4488033fabb2cea17a8267c414251665f8               38 Release
+SHA256:
+ bf900a9a131447e33cd23b30bdebeabfe63a798bd535aec0f75bdff1d54c5fb9              505 Packages
+ 6122b4e99f2fc4d80b0ac4b87906fa44f07ef2d464fb55edc0e9602a11ea3ccd              377 Packages.gz
+ ec3ae2231d922c08ec1640e6ed88227cf4de47ce913486838c4c6b2d808ff10e               38 Release
+SHA512:
+ c1b596a9938677fff327fe716b505355ca1638daab5477fee2ed3e2e36db8bdc321fd5087f54a8bdb4ea9d29228007436133434c7e45120127e38e6079467893              505 Packages
+ c6ca097bcc9ebc3863d833eb60042ae89b2b62d658d8dade3fb363d12b818f87385949552a8dcaa0880002d00d8f99b1ab00b4cb67e2562df248488ebaab86d1              377 Packages.gz
+ 0da4a0902f29de76a79215d1eb8b819f5276b2af01340ebf44ce99ac1c69bec81b7d744ed1303e319a210132cfb038272bd4fb2c1c3b89d0403491260c77b947               38 Release
